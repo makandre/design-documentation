@@ -6,6 +6,8 @@
 
 [Deploying Codewind](/codewindServer/Deploying&#32;codewind.md)
 
+[Codewind Extensions](./codewindServer/Extensions.md)
+
 [Removing Codewind](/codewindServer/Removing_codewind_remote.md)
 
 [Codewind Operator](/codewindServer/CodewindOperator.md)
